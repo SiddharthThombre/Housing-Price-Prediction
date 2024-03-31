@@ -10,6 +10,10 @@ This project focuses on predicting housing prices using machine learning techniq
 **Installation Instructions:**
 Before running the code, ensure you have Python installed on your system. You can install the necessary libraries using pip:
 
+```bash
+pip install numpy pandas matplotlib seaborn scikit-learn
+```
+
 **Additional Sections:**
 
 - **Contributing:** Contributions are welcome! If you have any suggestions, bug reports, or feature requests, please open an issue or submit a pull request.
